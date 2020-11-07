@@ -1,4 +1,4 @@
-###Recommender System
+# Recommender System
 
 There are three files users, posts and views.
 Users contain info about the user, posts about the posts and views contain which user viewed which post at what time.
